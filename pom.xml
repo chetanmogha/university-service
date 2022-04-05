@@ -164,7 +164,7 @@ src/main/java/com/company/employee/config/*.java
 
 
 		</plugins>
-		<finalName>employee-service</finalName>
+		<finalName>university-service</finalName>
 	</build>
 
 	<reporting>
