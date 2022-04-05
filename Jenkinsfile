@@ -19,7 +19,7 @@ maven 'maven'
 
 
 environment {
-ORG_NAME = "IPU"
+ORG_NAME = "ipu"
 APP_NAME = "university-service"
 APP_VERSION = "1.0-SNAPSHOT"
 APP_CONTEXT_ROOT = "/"
